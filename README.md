@@ -14,6 +14,11 @@ linkedinposts/
 ├── topics/
 ├── companies/
 └── products/
+
+recordings/       # my voice recordings explaining a topic, mirroring research/
+├── topics/
+├── companies/
+└── products/
 ```
 
 Subfolders within `topics/`, `companies/`, and `products/` are created as content accumulates (e.g. `research/topics/gene-therapy/`).
@@ -36,3 +41,8 @@ Subfolders within `topics/`, `companies/`, and `products/` are created as conten
   ```
 
 - Pasted text is formatted into clean Markdown; PDFs have their text extracted and converted to the same format.
+
+## Recordings
+
+- Audio files live in `recordings/<category>/` with the same `YYYY-MM-DD-title-slug` naming (e.g. `2026-10-03-admet-ai.m4a`).
+- Each recording has a companion `.md` with the same name that links to the audio and to the research file it corresponds to, and the research file links back to it.

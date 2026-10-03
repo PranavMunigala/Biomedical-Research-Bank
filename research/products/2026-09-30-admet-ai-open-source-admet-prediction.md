@@ -6,6 +6,8 @@
 
 Product profile: open-source machine-learning platform for predicting drug ADMET properties. See also: Computational Drug Discovery.
 
+**Recording:** [My explanation (audio)](../../recordings/products/2026-10-03-admet-ai.md)
+
 ---
 
 ## What It Does
